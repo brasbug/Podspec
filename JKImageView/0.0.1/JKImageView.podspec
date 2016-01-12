@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
   s.name     = 'JKImageView'
   s.version  = '0.0.1'
-  s.platform     = :ios, '8.0'
-  s.ios.deployment_target = '8.0'
+  s.platform     = :ios, '7.0'
+  s.ios.deployment_target = '7.0'
   s.summary  = 'imageNet for your iOS app.'
   s.authors   = { 'Jack' => '369495368@qq.com' }
   s.source   = { :git => 'https://github.com/brasbug/JKImageView.git', :tag => s.version.to_s}
