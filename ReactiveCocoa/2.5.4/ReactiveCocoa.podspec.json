@@ -2,12 +2,12 @@
   "name": "ReactiveCocoa",
   "version": "2.5.4",
   "summary": "A framework for composing and transforming streams of values.",
-  "homepage": "http://git.dianpingoa.com/v1/sh/projects/mobile/repos/ReactiveCocoa/browse",
+  "homepage": "https://github.com/flywithbug/ReactiveCocoa",
   "authors": {
     "Josh Abernathy": "josh@github.com"
   },
   "source": {
-    "git": "ssh://git@git.dianpingoa.com/mobile/ReactiveCocoa.git",
+    "git": "git@github.com:flywithbug/ReactiveCocoa.git",
     "tag": "2.5.4"
   },
   "license": {
