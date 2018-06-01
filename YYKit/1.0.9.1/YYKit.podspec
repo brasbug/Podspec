@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/ibireme/YYKit'
   s.platform     = :ios, '10.0'
   s.ios.deployment_target = '10.0'
-  s.source       = { :git => 'git@github.com:flywithbug/YYKit.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/flywithbug/YYKit.git', :tag => s.version.to_s }
   
   s.requires_arc = true
   s.source_files = 'YYKit/**/*.{h,m}'
