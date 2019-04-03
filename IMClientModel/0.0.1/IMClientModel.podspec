@@ -22,5 +22,6 @@ Pod::Spec.new do |s|
   
   s.dependency 'YYModel'
   s.dependency 'BGFMDB'
+  s.dependency 'IMAppConfig'
 
 end

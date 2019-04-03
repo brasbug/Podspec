@@ -19,5 +19,6 @@ Pod::Spec.new do |s|
   
   s.dependency 'IMAsyncSocket'
   s.dependency 'IMClientModel'
+  s.dependency 'IMAppConfig'
 
 end
