@@ -7,7 +7,7 @@
     "Josh Abernathy": "josh@github.com"
   },
   "source": {
-    "git": "git@github.com:flywithbug/ReactiveCocoa.git",
+    "git": "https://github.com/flywithbug/ReactiveCocoa.git",
     "tag": "2.5.4"
   },
   "license": {
