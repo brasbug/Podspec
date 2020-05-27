@@ -15,7 +15,7 @@
     "ios": "7.0"
   },
   "source": {
-    "git": "hhttps://gitee.com/flywithbug/BaiduMapKit.git",
+    "git": "https://gitee.com/flywithbug/BaiduMapKit.git",
     "tag": "5.3.0"
   },
   "resources": "BaiduMapKit/*.framework/*.bundle",
