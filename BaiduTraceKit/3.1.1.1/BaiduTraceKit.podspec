@@ -27,9 +27,8 @@ Pod::Spec.new do |s|
 #  s.static_framework = true
 
 
-  s.source_files = 'BaiduMapKit/*.framework/*.bundle "BaiduMapKit/*.framework"'
   
-  s.subspec 'BaiduMapKit' do |ss|
+  s.subspec 'BaiduTraceKit' do |ss|
     # ss.source_files = ['BaiduTraceKit/*.framework/*.bundle']
     ss.vendored_frameworks = ['BaiduTraceKit/*.framework']
     ss.vendored_libraries = ['BaiduTraceKit/thirdlibs/*.a']

@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 #  s.static_framework = true
 
 
-  s.source_files = 'BaiduMapKit/*.framework/*.bundle "BaiduMapKit/*.framework"'
+  # s.source_files = 'BaiduMapKit/*.framework/*.bundle "BaiduMapKit/*.framework"'
   
   s.subspec 'BaiduMapKit' do |ss|
     ss.source_files = ['BaiduMapKit/*.framework/*.bundle']
