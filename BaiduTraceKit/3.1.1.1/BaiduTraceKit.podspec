@@ -30,9 +30,9 @@ Pod::Spec.new do |s|
   s.source_files = 'BaiduMapKit/*.framework/*.bundle "BaiduMapKit/*.framework"'
   
   s.subspec 'BaiduMapKit' do |ss|
-    ss.source_files = ['BaiduMapKit/*.framework/*.bundle']
-    ss.vendored_frameworks = ['BaiduMapKit/*.framework']
-    ss.vendored_libraries = ['BaiduMapKit/thirdlibs/*.a']
+    # ss.source_files = ['BaiduTraceKit/*.framework/*.bundle']
+    ss.vendored_frameworks = ['BaiduTraceKit/*.framework']
+    ss.vendored_libraries = ['BaiduTraceKit/thirdlibs/*.a']
   end
 
   
