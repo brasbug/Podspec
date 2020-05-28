@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BaiduTraceKit'
-  s.version          = '3.1.1'
+  s.version          = '3.1.1.1'
   s.summary          = '百度地图iOS SDK（CocoaPods百度地图官方库） '
 
 
