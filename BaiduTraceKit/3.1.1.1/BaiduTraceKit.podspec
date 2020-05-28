@@ -31,9 +31,9 @@ Pod::Spec.new do |s|
   s.subspec 'BaiduTraceKit' do |ss|
     # ss.source_files = ['BaiduTraceKit/*.framework/*.bundle']
     ss.vendored_frameworks = ['BaiduTraceKit/*.framework']
-    ss.vendored_libraries = ['BaiduTraceKit/thirdlibs/*.a']
+    # ss.vendored_libraries = ['BaiduTraceKit/thirdlibs/*.a']
   end
-
+  
   
   
   s.frameworks =  "CoreLocation", "SystemConfiguration", "Security","CoreTelephony","MobileCoreServices"
