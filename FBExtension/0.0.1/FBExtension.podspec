@@ -26,6 +26,6 @@ Pod::Spec.new do |s|
   s.source_files = ['FBExtension/Classes/**/*.swift']
     
     
-  s.dependency 'SwifterSwift'
+  s.dependency 'SwifterSwift/UIKit'
     
 end
