@@ -16,7 +16,7 @@
     "watchos": "2.0",
     "tvos": "9.0",
     "osx": "10.9",
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "dependencies": {
     "WCDBOptimizedSQLCipher": [
