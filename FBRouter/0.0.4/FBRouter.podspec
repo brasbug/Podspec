@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/swift-assembly/FBRouter'
   s.license          = 'MIT'
   s.author           = { 'flywithbug' => 'flywithbug@gmail.com' }
-  s.source           = { :git => 'https://gitee.com/flywithbug/FBRouter.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/swift-assembly/FBRouter.git', :tag => s.version }
 
   s.ios.deployment_target = '10.0'
 #  s.static_framework = true
