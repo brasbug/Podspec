@@ -16,7 +16,7 @@
     "type": "zip"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "requires_arc": false,
   "source_files": "OpenSDK1.8.7.1/*.{h}",
