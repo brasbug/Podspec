@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
     s.social_media_url = 'https://twitter.com/EyreFree777'
 
     s.swift_version = '5.0'
-    s.ios.deployment_target = '8.0'
+    s.ios.deployment_target = '10.0'
     s.source_files = 'EFCountingLabel/*.swift'
 end
