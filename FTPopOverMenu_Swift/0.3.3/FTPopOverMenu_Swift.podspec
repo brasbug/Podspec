@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/liufengting/FTPopOverMenu_Swift"
   s.screenshots  = "https://raw.githubusercontent.com/liufengting/FTResourceRepo/master/Resource/FTPopOverMenu/screenshots.gif"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "10.0"
   s.source       = { :git => "https://github.com/liufengting/FTPopOverMenu_Swift.git", :tag => "#{s.version}" }
   s.source_files = ["FTPopOverMenu_Swift/*.swift"]
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
