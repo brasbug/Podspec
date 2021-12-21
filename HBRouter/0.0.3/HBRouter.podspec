@@ -13,7 +13,7 @@ end
 
 Pod::Spec.new do |s|
   s.name             = 'HBRouter'
-  s.version          = 0.0.3
+  s.version          = '0.0.3'
   s.summary          = 'app '
 
 
