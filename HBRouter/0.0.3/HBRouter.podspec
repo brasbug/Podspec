@@ -21,13 +21,13 @@ Pod::Spec.new do |s|
         app 
                        DESC
 
-  s.homepage         = 'http://gitlab.hellobike.cn/Torrent/HBRouter.git'
+  s.homepage         = 'git@gitee.com:flywithbug/HBRouter.git'
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { 'flywithbug' => 'flywithbug@gmail.com' }
   s.source           = { :git => 'git@gitee.com:flywithbug/HBRouter.git', :tag => s.version }
 
   s.ios.deployment_target = '9.0'
-#  s.static_framework = true
+ s.static_framework = true
 
   s.frameworks       = 'UIKit', 'Foundation'
 
@@ -39,6 +39,4 @@ Pod::Spec.new do |s|
   
   
   
-  s.ios.deployment_target = "9.0"
-
 end
