@@ -12,7 +12,7 @@
     "sanhuazhang": "sanhuazhang@tencent.com"
   },
   "source": {
-    "git": "https://gitee.com/flywithbug/sqlcipher.git",
+    "git": "git@gitee.com:flywithbug/sqlcipher.git",
     "commit": "7413f8517e305f4edf106dec0682515767f4fc4a"
   },
   "module_name": "sqlcipher",
