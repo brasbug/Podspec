@@ -12,9 +12,9 @@
     "sanhuazhang": "sanhuazhang@tencent.com"
   },
   "platforms": {
-    "ios": "10.0",
+    "ios": "12.0",
     "osx": "10.9",
-    "watchos": "2.0",
+    "watchos": "8.0",
     "tvos": "9.0"
   },
   "source": {
@@ -40,7 +40,7 @@
     "OTHER_SWIFT_FLAGS[config=Debug][sdk=iphonesimulator*]": "-D WCDB_IOS -D DEBUG",
     "OTHER_SWIFT_FLAGS[config=Debug][sdk=iphoneos*]": "-D WCDB_IOS -D DEBUG"
   },
-  "swift_version": "4.2",
+  "swift_version": "5",
   "dependencies": {
     "WCDBOptimizedSQLCipher": [
       "~> 1.2.0"
