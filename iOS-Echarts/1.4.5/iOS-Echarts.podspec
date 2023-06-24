@@ -5,7 +5,6 @@ Pod::Spec.new do |s|
   s.homepage            = "https://github.com/Pluto-Y/iOS-Echarts"
   s.license             = { :type => "MIT", :file => 'LICENSE.md' }
   s.author              = { "PlutoY" => "kuaileainits@163.com" }
-  #s.platform            = :ios, "7.0"
   s.source              = { :git => "https://gitee.com/flywithbug/iOS-Echarts.git", :tag => s.version}
   s.source_files        = "iOS-Echarts/**/*.{h,m}"
   s.resource_bundles    = { 'iOS-Echarts' => 'iOS-Echarts/Resources/**' }
@@ -14,7 +13,7 @@ Pod::Spec.new do |s|
   s.ios.frameworks          = 'UIKit'
   s.osx.frameworks          = 'AppKit', 'WebKit'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
   s.osx.deployment_target = '10.9'
 
 end
