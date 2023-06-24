@@ -13,9 +13,7 @@
   },
   "platforms": {
     "ios": "12.0",
-    "osx": "10.9",
-    "watchos": "8.0",
-    "tvos": "9.0"
+    "watchos": "8.0"
   },
   "source": {
     "git": "https://gitee.com/flywithbug/wcdb.git",

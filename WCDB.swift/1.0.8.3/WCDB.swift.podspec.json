@@ -13,7 +13,7 @@
   },
   "platforms": {
     "ios": "12.0",
-    "watchos": "8.0",
+    "watchos": "8.0"
   },
   "source": {
     "git": "https://gitee.com/flywithbug/wcdb.git",
@@ -38,7 +38,7 @@
     "OTHER_SWIFT_FLAGS[config=Debug][sdk=iphonesimulator*]": "-D WCDB_IOS -D DEBUG",
     "OTHER_SWIFT_FLAGS[config=Debug][sdk=iphoneos*]": "-D WCDB_IOS -D DEBUG"
   },
-  "swift_version": "4.2",
+  "swift_version": "5",
   "dependencies": {
     "WCDBOptimizedSQLCipher": [
       "~> 1.2.0"
