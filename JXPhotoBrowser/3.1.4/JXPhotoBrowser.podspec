@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://github.com/JiongXing/PhotoBrowser'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'JiongXing' => 'liangjiongxing@qq.com' }
-    s.source           = { :git => 'https://github.com/JiongXing/PhotoBrowser.git', :tag => s.version.to_s }
+    s.source           = { :git => 'git@github.com:flywithbug-iOS/PhotoBrowser.git', :tag => s.version.to_s }
     
     s.ios.deployment_target = '13.0'
     s.swift_version = '5.0'
